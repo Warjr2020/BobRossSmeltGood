@@ -1,5 +1,5 @@
 {
-  "RevertStackSizesToVanillaOnUnload": true,
+  "RevertStackSizesToVanillaOnUnload": false,
   "AllowStackingItemsWithDurability": false,
   "HidePrefixWithPluginNameInMessages": false,
   "GlobalStackMultiplier": 1.0,
@@ -856,10 +856,5 @@
     "grenade.molotov": 5,
     "horse.saddle.double": 1,
     "horse.saddle.single": 1
-  },
-  "VersionNumber": {
-    "Major": 4,
-    "Minor": 1,
-    "Patch": 2
   }
 }
